@@ -1,9 +1,9 @@
 <template>
-  <Login></Login>
+  <Home></Home>
 </template>
 
 <script setup>
-  import Login from './components/Login.vue'
+  import Home from './components/Home.vue'
 </script>
 
 <style scoped>
